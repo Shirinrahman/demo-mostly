@@ -1,6 +1,6 @@
 # demo
 
 
-objective
+objective!
 
 description
